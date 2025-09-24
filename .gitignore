@@ -1,0 +1,9 @@
+
+# Macのアレ
+.DS_Store
+
+# Windowsのアレ
+Thumbs.db
+
+# Composerのアレ
+vendor
